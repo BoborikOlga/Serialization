@@ -1,0 +1,9 @@
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\bin\Debug\Serialization.exe.config
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\bin\Debug\Serialization.exe
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\bin\Debug\Serialization.pdb
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\obj\Debug\Serialization.FMain.resources
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\obj\Debug\Serialization.exe
+D:\учёба\2 курс\4 сем\ООТПиСП\Лабы\Serialization\Serialization\obj\Debug\Serialization.pdb
